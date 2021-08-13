@@ -1,7 +1,10 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img
+      alt="Vue logo"
+      src="../assets/logo.png"
+    >
+    <HelloWorld msg="임정호의 포트폴리오 사이트 입니다." />
   </div>
 </template>
 
