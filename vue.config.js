@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/jungholim.github.io',
+    publicPath: '/',
     outputDir: 'docs'
 }
